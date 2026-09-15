@@ -7,6 +7,12 @@ cargo run
 ```
 
 ## Crew name
+
+MOTTO_MERGE
+
+## Members
+
+eushra
 The Stars
 
 ## Members
